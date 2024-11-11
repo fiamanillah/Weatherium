@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/cbw99fY/weatherium-amanillah-com.png"/>
+<img src="https://i.ibb.co.com/cbw99fY/weatherium-amanillah-com.png" style="width: 100%;"/>
 
 ### Project Overview
 
@@ -37,23 +37,27 @@ Weatherium is a modern and responsive weather forecasting web application design
 To run Weatherium locally, follow these steps:
 
 1.  **Prerequisites**:
-    
+
     -   Ensure that Node.js is installed on your system.
+
 2.  **Clone the Repository**:
-    
+
     -   Use the command:  
         `git clone https://github.com/yourusername/weatherium.git`  
         `cd weatherium`
+
 3.  **Install Dependencies**:
-    
+
     -   Run:  
         `npm install`
+
 4.  **Set Up Environment Variables**:
-    
+
     -   Create a `.env` file in the root directory and add your OpenWeather API Key:  
         `REACT_APP_OPENWEATHER_API_KEY=your_api_key`
+
 5.  **Run the Application**:
-    
+
     -   Start the development server with:  
         `npm run dev`
     -   Open your browser and go to: http://localhost:5173
@@ -61,7 +65,6 @@ To run Weatherium locally, follow these steps:
 ### Live Link
 
 You can access the live version of Weatherium here: https://weatherium.amanillah.com/
-
 
 ### Key Learning Points
 
@@ -75,7 +78,6 @@ You can access the live version of Weatherium here: https://weatherium.amanillah
 -   [React.js Documentation](https://react.dev/learn)
 -   [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 -   [OpenWeather API Documentation](https://openweathermap.org/api)
-
 
 ### Contributing
 
