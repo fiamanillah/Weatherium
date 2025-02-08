@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co.com/cbw99fY/weatherium-amanillah-com.png" style="width: 100%;"/>
+
 # **Project Overview**
 
 **Weatherium** is a modern, responsive, and feature-rich weather forecasting web application designed to provide users with real-time weather updates for any location worldwide. Built using **React.js, Vite, and Tailwind CSS**, Weatherium delivers a sleek and intuitive user experience with dynamic weather data powered by the **OpenWeather API**.
